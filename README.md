@@ -1,7 +1,7 @@
-Markdown : les bases  
+# Markdown : les bases  
 Source : https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
-# Les exemples de code : spécifier un langage particulier
+## Les exemples de code : spécifier un langage particulier
 Par exemple, pour du javascript :
 ```js
 // Rajouter ```js pour du code javascript
@@ -10,7 +10,7 @@ function sumTwoSmallestNumbers(numbers) {
 }
 ``` 
 
-# Les listes : rajouter 4 espaces pour que le bloc de code suive l'indentation des bullet-list
+## Les listes : rajouter 4 espaces pour que le bloc de code suive l'indentation des bullet-list
 Par exemple :
 - Array sort https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort  
   - Tri par défaut : basé sur les caractères
